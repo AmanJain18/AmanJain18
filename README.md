@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanjain18&" alt="amanjain18" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjain18" alt="amanjain18" /></a> </p>
+
+![snake gif](https://github.com/amanjain18/amajain18/blob/output/github-contribution-grid-snake.gif)
