@@ -29,4 +29,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjain18" alt="amanjain18" /></a> </p>
 
-![snake gif](https://github.com/AmanJain18/AmanJain18/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AmanJain18/AmanJain18/blob/output/github-contribution-grid-snake.svg)
