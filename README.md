@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amansjain99" target="blank"><img src="https://img.shields.io/twitter/follow/amansjain99?logo=twitter&style=for-the-badge" alt="amansjain99" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Check out my portfolio](https://amanjain18.github.io/Aman-Jain-Portfolio/)
+- 👨‍💻 All of my projects are available at [Check out my portfolio](https://amanjain.tech)
 
 - 📫 How to reach me **amanjainpvt.com**
 
